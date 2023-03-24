@@ -1,0 +1,4 @@
+.lista-flecha::before{
+    content:"\0279c";
+    margin-right:2%;
+}
